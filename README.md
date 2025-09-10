@@ -30,3 +30,8 @@ Ahmet Karabulut, David Galindo
 ## Structure du projet
 ![alt text](image.png)
 
+## Sources
+### Images officielles
+Wordpress : https://hub.docker.com/_/wordpress
+MySQL : https://hub.docker.com/_/mysql
+Nginx : https://hub.docker.com/_/nginx
